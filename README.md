@@ -46,7 +46,7 @@ Copy code
 Clone the repository
 Copy code
 Bash
-git clone https://github.com/Snehanjali07/ai-expense-tracker.git
+git clone https://github.com/your_username/ai-expense-tracker.git
 Create a Google Maps API key
 Enable:
 Maps SDK
